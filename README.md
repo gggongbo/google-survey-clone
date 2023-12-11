@@ -33,8 +33,6 @@
 | IDE           | Visual Studio Code                                          |
 | Code Managing | [Github](https://github.com/gggongbo/classum-fe-assignment) |
 
-                                             |
-
 ## **Environment Setting**
 
 ```bash
